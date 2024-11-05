@@ -9,4 +9,4 @@ const Accordian = () =>
     )
 }
  
-export default Accordian;
+export default Accordian
