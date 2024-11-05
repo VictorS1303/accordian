@@ -1,4 +1,4 @@
-import Accordian from '@/components/Accordian.jsx'
+import Accordian from './components/Accordian.jsx'
 
 export default function Home()
 {
